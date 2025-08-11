@@ -1,4 +1,4 @@
-# School-Insights-Dashboard
+# School Insights Dashboard
 An Excel dashboard that provides district and village-level insights into the school infrastructure of Meghalaya, India. Built using government open data, the project analyzes the distribution, management, and establishment trends of schools across the state.
 
 ## Overview
